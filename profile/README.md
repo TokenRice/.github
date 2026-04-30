@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Replace with the logo once uploaded: ![logo](./profile/logo.svg) -->
+<!-- Replace with the logo once uploaded: ![logo](./profile/logo.png) -->
 
 # Tokenrice
 
@@ -21,7 +21,6 @@ The professional workspace for evaluating, comparing, and selecting AI models. B
 - Strategy Builder — Draft, simulate, and publish model selection policies with cost projections
 - Pricing Trends — Historical pricing data and spend simulation
 
-Stack: Next.js 15 · FastAPI · PostgreSQL · Redis · Docker Compose
 
 ## TapInFlow — AI-Powered Audience Interaction Platform
 
