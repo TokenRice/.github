@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Replace with the logo once uploaded: ![logo](./profile/logo.png) -->
+![logo](logo.png) 
 
 # Tokenrice
 
