@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="200" />
 
-# Tokenrice
+# TokenRice
 
 AI-native tools for builders, creators, and teams.
 
