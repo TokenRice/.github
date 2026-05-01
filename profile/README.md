@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo](logo.png) 
+<img src="logo.png" width="200" />
 
 # Tokenrice
 
