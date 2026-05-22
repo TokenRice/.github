@@ -4,7 +4,7 @@
 
 # TokenRice
 
-AI-native tools for builders, creators, and teams.
+AI-native tools for consumer, builders, creators, and teams.
 
 We build products that make AI practical — from choosing the right model to engaging your audience in real time.
 
